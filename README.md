@@ -1,2 +1,2 @@
 # Mobile-App-Ui
-Mobile App for beginners
+Mobile App Template for beginners
